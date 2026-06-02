@@ -8,11 +8,11 @@ An AI-powered football analytics platform that simulates the FIFA World Cup 2026
 
 ## 🌍 Live Demo
 
-https://2026-fifa-world-cup-simulation.streamlit.app/
+[Live Demo](https://2026-fifa-world-cup-simulation.streamlit.app/)
 
 ---
 
-# 📌 Features
+## 📌 Features
 
 * ⚽ AI Match Prediction
 * 🎲 Monte Carlo Tournament Simulation
@@ -31,7 +31,7 @@ Data Collection → Feature Engineering → ML Prediction → Monte Carlo Simula
 
 ---
 
-# 🧠 Technologies Used
+## 🧠 Technologies Used
 
 * Python
 * Streamlit
@@ -44,7 +44,7 @@ Data Collection → Feature Engineering → ML Prediction → Monte Carlo Simula
 
 ---
 
-# 🤖 Machine Learning Models
+## 🤖 Machine Learning Models
 
 The project experiments with multiple machine learning approaches for football match prediction:
 
@@ -56,7 +56,7 @@ The project experiments with multiple machine learning approaches for football m
 
 ---
 
-# 🎲 Monte Carlo Simulation
+## 🎲 Monte Carlo Simulation
 
 The tournament engine runs repeated probabilistic simulations to estimate:
 
@@ -69,7 +69,7 @@ This allows the simulator to generate dynamic and realistic FIFA World Cup tourn
 
 ---
 
-# 🏟️ Tournament Engine
+## 🏟️ Tournament Engine
 
 The simulator includes:
 
@@ -88,7 +88,7 @@ Including:
 
 ---
 
-# 🌎 FIFA World Cup 2026 Teams
+## 🌎 FIFA World Cup 2026 Teams
 
 The simulator uses the expanded 48-team FIFA World Cup format, including teams from:
 
@@ -101,23 +101,23 @@ The simulator uses the expanded 48-team FIFA World Cup format, including teams f
 
 ---
 
-# 📊 Example Features
+## 📊 Example Features
 
-## ⚽ Match Prediction
+### ⚽ Match Prediction
 
 Predict match outcomes between any two qualified FIFA World Cup 2026 teams.
 
-## 🌍 Champion Probability Analysis
+### 🌍 Champion Probability Analysis
 
 Visualize tournament favorites using probability charts generated through Monte Carlo simulations.
 
-## 🏆 Tournament Path Visualization
+### 🏆 Tournament Path Visualization
 
 Track the complete knockout bracket from the Round of 32 to the Final.
 
 ---
 
-# 🚀 Deployment
+## 🚀 Deployment
 
 The application is publicly deployed using Streamlit Community Cloud.
 
@@ -146,7 +146,7 @@ Run the Streamlit app:
 streamlit run app.py
 ```
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 Saad Aldossary
 
@@ -162,7 +162,7 @@ Interested in:
 
 ---
 
-# ⭐ Future Improvements
+## ⭐ Future Improvements
 
 * Real FIFA rankings integration
 * ELO rating system
