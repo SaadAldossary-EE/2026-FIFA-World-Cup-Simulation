@@ -1,6 +1,10 @@
 # 🏆 FIFA World Cup 2026 AI Tournament Simulator
 
-An AI-powered football analytics platform that simulates the FIFA World Cup 2026 using Machine Learning concepts, Monte Carlo Simulation, and a custom Knockout Tournament Engine.
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+![Machine Learning](https://img.shields.io/badge/AI-MonteCarlo-green)
+
+An AI-powered football analytics platform that simulates the FIFA World Cup 2026 using Machine Learning models, Monte Carlo Simulation, and a custom Knockout Tournament Engine.
 
 ## 🌍 Live Demo
 
@@ -19,6 +23,11 @@ https://2026-fifa-world-cup-simulation.streamlit.app/
 * 🎯 Realistic Match Score Simulation
 * 🥅 Penalty Shootout Logic
 * 🌑 Professional Dark-Themed Streamlit UI
+
+---
+
+## 🏗️ Project Workflow
+Data Collection → Feature Engineering → ML Prediction → Monte Carlo Simulation → Tournament Engine → Streamlit Visualization
 
 ---
 
@@ -117,26 +126,25 @@ https://2026-fifa-world-cup-simulation.streamlit.app/
 
 ---
 
-# ▶️ How To Run Locally
+## ▶️ How To Run Locally
 
 Clone the repository:
 
-bash
+```bash
 git clone https://github.com/SaadAldossary-EE/2026-FIFA-World-Cup-Simulation.git
-
+```
 
 Install dependencies:
 
-bash
+```bash
 pip install -r requirements.txt
-
+```
 
 Run the Streamlit app:
 
-bash
+```bash
 streamlit run app.py
-
----
+```
 
 # 👨‍💻 Author
 
