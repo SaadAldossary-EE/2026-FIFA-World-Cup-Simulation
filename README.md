@@ -166,6 +166,3 @@ Interested in:
 
 ---
 
-# 📜 License
-
-This project is for portfolio purposes.
